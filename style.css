@@ -443,8 +443,11 @@ body{
           margin-left: 110px;
           margin-top: 90px;
       }
+       .social-connect{
+          margin-left: 80px;
+      }
       .bottom{
-          margin-left: 60px;
+          margin-left: 50px;
       }
   }
 
